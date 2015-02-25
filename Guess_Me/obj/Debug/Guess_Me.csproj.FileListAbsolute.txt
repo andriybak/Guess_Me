@@ -1,0 +1,13 @@
+C:\Users\Andrew\documents\visual studio 2013\Projects\Guess_Me\Guess_Me\bin\Debug\Resources\Database1_log.ldf
+C:\Users\Andrew\documents\visual studio 2013\Projects\Guess_Me\Guess_Me\bin\Debug\Resources\Database1.mdf
+C:\Users\Andrew\documents\visual studio 2013\Projects\Guess_Me\Guess_Me\bin\Debug\Guess_Me.exe.config
+C:\Users\Andrew\documents\visual studio 2013\Projects\Guess_Me\Guess_Me\bin\Debug\Guess_Me.exe
+C:\Users\Andrew\documents\visual studio 2013\Projects\Guess_Me\Guess_Me\bin\Debug\Guess_Me.pdb
+C:\Users\Andrew\documents\visual studio 2013\Projects\Guess_Me\Guess_Me\obj\Debug\Guess_Me.add_record.resources
+C:\Users\Andrew\documents\visual studio 2013\Projects\Guess_Me\Guess_Me\obj\Debug\Guess_Me.highscores.resources
+C:\Users\Andrew\documents\visual studio 2013\Projects\Guess_Me\Guess_Me\obj\Debug\Guess_Me.Properties.Resources.resources
+C:\Users\Andrew\documents\visual studio 2013\Projects\Guess_Me\Guess_Me\obj\Debug\Guess_Me.csproj.GenerateResource.Cache
+C:\Users\Andrew\documents\visual studio 2013\Projects\Guess_Me\Guess_Me\obj\Debug\Guess_Me.exe
+C:\Users\Andrew\documents\visual studio 2013\Projects\Guess_Me\Guess_Me\obj\Debug\Guess_Me.pdb
+C:\Users\Andrew\documents\visual studio 2013\Projects\Guess_Me\Guess_Me\obj\Debug\Guess_Me.Game.resources
+C:\Users\Andrew\documents\visual studio 2013\Projects\Guess_Me\Guess_Me\obj\Debug\Guess_Me.Menu.resources
